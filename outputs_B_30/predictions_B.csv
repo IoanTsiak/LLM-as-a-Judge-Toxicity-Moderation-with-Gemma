@@ -1,0 +1,31 @@
+text,gold,pred_label,category,confidence,toxic_score,latency_ms,valid_json,method
+good job on the project,0,DEFER,other,0.535244,0.258458,150917.12,True,loglikelihood
+Every single person like you should be banned,1,DEFER,other,0.445714,0.29676,211259.9,True,loglikelihood
+Why would anyone hire someone like you?,1,DEFER,other,0.448372,0.277319,238921.59,True,loglikelihood
+Looking forward to the collaboration,0,DEFER,other,0.562173,0.242814,49755.77,True,loglikelihood
+The pasta recipe was delicious,0,DEFER,other,0.555792,0.250483,32483.22,True,loglikelihood
+fuck off asshole,1,DEFER,other,0.411863,0.333102,67027.22,True,loglikelihood
+you are worthless,1,DEFER,other,0.456815,0.280074,25353.88,True,loglikelihood
+go away you loser,1,DEFER,other,0.434333,0.295782,28218.45,True,loglikelihood
+you are a horrible person,1,DEFER,other,0.435471,0.288615,38015.84,True,loglikelihood
+I will punch you in the face,1,DEFER,other,0.4756,0.253111,38593.12,True,loglikelihood
+Congrats on the promotion!,0,DEFER,other,0.543216,0.264166,31134.08,True,loglikelihood
+This community would be better without you,1,DEFER,other,0.494254,0.243437,24710.52,True,loglikelihood
+let us meet tomorrow,0,DEFER,other,0.539485,0.239995,30917.32,True,loglikelihood
+Let's grab lunch tomorrow,0,DEFER,other,0.552422,0.239171,23796.16,True,loglikelihood
+This is fucking amazing work,0,DEFER,other,0.530753,0.257495,29412.97,True,loglikelihood
+Let's schedule a sync next week,0,DEFER,other,0.55576,0.243427,26031.03,True,loglikelihood
+The concert last night was incredible,0,DEFER,other,0.567286,0.25089,25066.16,True,loglikelihood
+I will hurt you,1,DEFER,other,0.479282,0.242416,25162.72,True,loglikelihood
+please review my assignment,0,DEFER,other,0.555866,0.228037,31372.48,True,loglikelihood
+If I see you again it won't end well for you,1,DEFER,other,0.476458,0.246492,34252.93,True,loglikelihood
+I appreciate your effort,0,DEFER,other,0.556254,0.245596,23143.76,True,loglikelihood
+"he said ""you are stupid"" as an example, but did not insult anyone",0,DEFER,other,0.463497,0.241356,23042.2,True,loglikelihood
+"Got it, thanks for the heads up",0,DEFER,other,0.559372,0.241025,22117.24,True,loglikelihood
+I hope something bad happens to you,1,DEFER,other,0.466564,0.253931,21549.57,True,loglikelihood
+"Another day, another failure from you",1,DEFER,other,0.482361,0.238588,21734.65,True,loglikelihood
+I want to punch you,1,DEFER,other,0.46889,0.245384,21281.46,True,loglikelihood
+Kys noob,1,DEFER,other,0.419232,0.315155,20843.02,True,loglikelihood
+the lecture was helpful,0,DEFER,other,0.568112,0.248755,23606.36,True,loglikelihood
+I appreciate your perspective,0,DEFER,other,0.549859,0.24436,19931.3,True,loglikelihood
+your idea is interesting,0,DEFER,other,0.535949,0.248277,21881.3,True,loglikelihood
