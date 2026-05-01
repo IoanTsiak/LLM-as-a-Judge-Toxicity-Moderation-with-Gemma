@@ -1,0 +1,12 @@
+attack,variant,f1,coverage
+benign_quote,attacked,0.0,1.0
+benign_quote,mitigated,0.0,1.0
+char_repetition,attacked,1.0,1.0
+char_repetition,mitigated,1.0,1.0
+clean,clean,1.0,1.0
+leetspeak,attacked,0.9090909090909091,1.0
+leetspeak,mitigated,1.0,1.0
+spacing_attack,attacked,1.0,1.0
+spacing_attack,mitigated,1.0,1.0
+typos_noise,attacked,1.0,1.0
+typos_noise,mitigated,1.0,1.0
