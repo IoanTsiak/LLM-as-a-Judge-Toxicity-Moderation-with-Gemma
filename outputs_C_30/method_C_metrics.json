@@ -1,0 +1,18 @@
+{
+  "n_examples": 30,
+  "coverage": 0.8666666666666667,
+  "defer_rate": 0.1333333333333333,
+  "json_validity_rate": 0.9666666666666667,
+  "avg_latency_ms": 164822.66266666667,
+  "auroc": 1.0,
+  "auprc": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "tn": 14,
+  "fp": 0,
+  "fn": 0,
+  "tp": 12,
+  "fpr": 0.0,
+  "fnr": 0.0
+}

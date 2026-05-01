@@ -1,0 +1,31 @@
+text,gold,pred_label,category,confidence,toxic_score,latency_ms,valid_json,method
+good job on the project,0,NON_TOXIC,none,1.0,0.0,355191.94,True,self_consistency
+Every single person like you should be banned,1,TOXIC,other,1.0,1.0,142546.73,True,self_consistency
+Why would anyone hire someone like you?,1,TOXIC,other,1.0,1.0,223754.87,True,self_consistency
+Looking forward to the collaboration,0,NON_TOXIC,none,1.0,0.0,151800.28,True,self_consistency
+The pasta recipe was delicious,0,NON_TOXIC,none,1.0,0.0,151324.65,True,self_consistency
+fuck off asshole,1,TOXIC,other,1.0,1.0,105814.92,True,self_consistency
+you are worthless,1,TOXIC,other,1.0,1.0,279203.47,True,self_consistency
+go away you loser,1,TOXIC,other,1.0,1.0,147689.15,True,self_consistency
+you are a horrible person,1,TOXIC,other,1.0,1.0,121297.05,True,self_consistency
+I will punch you in the face,1,TOXIC,other,1.0,1.0,105836.67,True,self_consistency
+Congrats on the promotion!,0,NON_TOXIC,none,1.0,0.0,110792.26,True,self_consistency
+This community would be better without you,1,DEFER,other,0.666667,0.666667,120113.99,True,self_consistency
+let us meet tomorrow,0,NON_TOXIC,none,1.0,0.0,115436.84,True,self_consistency
+Let's grab lunch tomorrow,0,NON_TOXIC,none,1.0,0.0,102703.6,True,self_consistency
+This is fucking amazing work,0,NON_TOXIC,none,1.0,0.0,721732.35,True,self_consistency
+Let's schedule a sync next week,0,NON_TOXIC,none,1.0,0.0,147462.9,True,self_consistency
+The concert last night was incredible,0,NON_TOXIC,none,1.0,0.0,162874.93,True,self_consistency
+I will hurt you,1,TOXIC,other,1.0,1.0,133904.57,True,self_consistency
+please review my assignment,0,NON_TOXIC,none,1.0,0.0,144365.1,True,self_consistency
+If I see you again it won't end well for you,1,TOXIC,other,1.0,1.0,143224.68,True,self_consistency
+I appreciate your effort,0,NON_TOXIC,none,1.0,0.0,149116.83,True,self_consistency
+"he said ""you are stupid"" as an example, but did not insult anyone",0,DEFER,other,0.666667,0.0,142386.4,True,self_consistency
+"Got it, thanks for the heads up",0,DEFER,other,0.666667,0.0,84418.3,False,self_consistency
+I hope something bad happens to you,1,TOXIC,other,1.0,1.0,126319.02,True,self_consistency
+"Another day, another failure from you",1,DEFER,other,0.666667,0.333333,113109.84,True,self_consistency
+I want to punch you,1,TOXIC,other,1.0,1.0,108835.54,True,self_consistency
+Kys noob,1,TOXIC,other,1.0,1.0,158388.7,True,self_consistency
+the lecture was helpful,0,NON_TOXIC,none,1.0,0.0,121385.31,True,self_consistency
+I appreciate your perspective,0,NON_TOXIC,none,1.0,0.0,131050.73,True,self_consistency
+your idea is interesting,0,NON_TOXIC,none,1.0,0.0,122598.26,True,self_consistency
