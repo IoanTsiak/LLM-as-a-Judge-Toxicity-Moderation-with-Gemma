@@ -1,0 +1,31 @@
+text,gold,pred_label,category,confidence,toxic_score,latency_ms,valid_json,method
+good job on the project,0,NON_TOXIC,other,0.95,0.05,211144.37,True,direct
+Every single person like you should be banned,1,TOXIC,threat,0.9,0.9,45372.44,True,direct
+Why would anyone hire someone like you?,1,TOXIC,insult,0.9,0.9,52551.72,True,direct
+Looking forward to the collaboration,0,NON_TOXIC,other,0.95,0.05,44159.08,True,direct
+The pasta recipe was delicious,0,NON_TOXIC,other,0.95,0.05,46004.08,True,direct
+fuck off asshole,1,TOXIC,insult,0.95,0.95,36591.67,True,direct
+you are worthless,1,TOXIC,insult,0.95,0.95,41647.77,True,direct
+go away you loser,1,TOXIC,insult,0.95,0.95,41778.68,True,direct
+you are a horrible person,1,TOXIC,insult,0.95,0.95,38222.96,True,direct
+I will punch you in the face,1,TOXIC,threat,0.9,0.9,35333.81,True,direct
+Congrats on the promotion!,0,NON_TOXIC,other,0.95,0.05,43968.04,True,direct
+This community would be better without you,1,TOXIC,insult,0.9,0.9,47002.33,True,direct
+let us meet tomorrow,0,NON_TOXIC,other,0.9,0.1,37496.78,True,direct
+Let's grab lunch tomorrow,0,NON_TOXIC,other,0.9,0.1,34848.47,True,direct
+This is fucking amazing work,0,NON_TOXIC,profanity,0.95,0.05,42558.95,True,direct
+Let's schedule a sync next week,0,NON_TOXIC,other,0.9,0.1,38836.89,True,direct
+The concert last night was incredible,0,NON_TOXIC,other,0.95,0.05,37688.82,True,direct
+I will hurt you,1,TOXIC,threat,0.9,0.9,34171.86,True,direct
+please review my assignment,0,NON_TOXIC,other,0.9,0.1,36173.07,True,direct
+If I see you again it won't end well for you,1,TOXIC,threat,0.9,0.9,33218.66,True,direct
+I appreciate your effort,0,NON_TOXIC,other,0.95,0.05,36865.69,True,direct
+"he said ""you are stupid"" as an example, but did not insult anyone",0,NON_TOXIC,other,0.9,0.1,38867.41,True,direct
+"Got it, thanks for the heads up",0,NON_TOXIC,other,0.95,0.05,36242.07,True,direct
+I hope something bad happens to you,1,TOXIC,threat,0.9,0.9,37147.17,True,direct
+"Another day, another failure from you",1,TOXIC,insult,0.9,0.9,36048.67,True,direct
+I want to punch you,1,TOXIC,threat,0.9,0.9,32990.53,True,direct
+Kys noob,1,TOXIC,threat,0.95,0.95,35729.43,True,direct
+the lecture was helpful,0,NON_TOXIC,other,0.95,0.05,36305.74,True,direct
+I appreciate your perspective,0,NON_TOXIC,other,0.95,0.05,36519.02,True,direct
+your idea is interesting,0,NON_TOXIC,other,0.95,0.05,35742.04,True,direct
